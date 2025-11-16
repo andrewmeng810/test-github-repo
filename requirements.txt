@@ -1,0 +1,7 @@
+attrs==25.4.0
+more-itertools==10.8.0
+packaging==25.0
+pluggy==0.13.1
+py==1.11.0
+pytest==5.4.3
+wcwidth==0.2.14
